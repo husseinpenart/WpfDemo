@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ContentController/ContentController.csproj" Id="37a09ce7-276d-4124-a107-b7beaa11e8df" />
+  <Project Path="DataBinding/DataBinding.csproj" Id="10449857-da11-4f20-8859-3513f55cedf1" />
   <Project Path="Todo/Todo.csproj" />
   <Project Path="WpfDemo/WpfDemo.csproj" />
 </Solution>
