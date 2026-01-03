@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ContentController/ContentController.csproj" Id="37a09ce7-276d-4124-a107-b7beaa11e8df" />
   <Project Path="Todo/Todo.csproj" />
   <Project Path="WpfDemo/WpfDemo.csproj" />
 </Solution>
